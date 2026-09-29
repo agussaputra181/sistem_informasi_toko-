@@ -1,5 +1,5 @@
 # Ini merupakan Tugas matakuliah PBO
-menambahkan comandline fungsi dari baris kode yang sudah ada dengan **kriteria : **
+menambahkan comandline fungsi dari baris kode yang sudah ada pada project java
 ## Sistem Informasi Toko (Java, Konsol)
 Aplikasi toko sederhana yang menerapkan enkapsulasi, inheritance,
 polymorphism, association, dan composition.
