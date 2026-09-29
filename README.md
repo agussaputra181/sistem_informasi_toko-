@@ -11,6 +11,6 @@ Toko (composition) | Transaksi (association)
 1. Buka proyek di NetBeans (Maven)
 2. Klik kanan proyek > Clean and Build
 3. Run File SistemTokoInteraktif.java
-## Pembuat
+## Pembuat Tugas
 Putu Agus Saputra- 2501010063-SIMLM1-Pemrograman berorientasi objek-Sistem Informasi
 
